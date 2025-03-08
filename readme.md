@@ -1,3 +1,7 @@
+# Introdução
+
+O seguinte projeto faz parte do "Desafio de Projeto" do Bootcamp: **Microsoft AI for Tech – Criando Prompts Inteligentes** da DIO.
+
 # Características
 
 - A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
